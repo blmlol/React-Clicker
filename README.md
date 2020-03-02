@@ -9,8 +9,6 @@ This project is a small interactive click-based game built using React. The app 
 2. I will be breaking the game into 3 components: ImageContainer.js, Image.js, images.js.
 -The ImageContainer will be the consumer component while the Image component will style the images exported from images.js.
 
-## Running the App
-You can visit the Heroku deployed version of the app [here](https://limitless-river-96505.herokuapp.com/)!
 
 ## Packages used
 1. create-react-app
