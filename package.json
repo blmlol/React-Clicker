@@ -1,0 +1,23 @@
+{
+  "name": "React-Clicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blmlol/React-Clicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blmlol/React-Clicker/issues"
+  },
+  "homepage": "https://github.com/blmlol/React-Clicker#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.0"
+  }
+}
