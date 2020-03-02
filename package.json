@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/blmlol/React-Clicker/issues"
   },
-  "homepage": "https://github.com/blmlol/React-Clicker#readme",
+  "homepage": "https://github.com/blmlol/React-Clicker",
   "dependencies": {
     "create-react-app": "^3.4.0"
   }
